@@ -1,10 +1,9 @@
-Solar Energy Analysis and Decision Tool
-# jrcai-github-competition-awad.alquaity
+# Solar Energy Analysis and Decision Tool
 
-I. Overview
+**I. Overview**
 This repository is designed to help users evaluate the feasibility and benefits of installing a solar water heater or solar PV system. It combines theoretical foundations, practical tools, and resources to assist users in making informed decisions regarding solar energy systems.
 
-II. Project Components
+**II. Project Components**
 
 1. Theoretical Foundation
 Comprehensive explanation of solar energy principles and how it can be converted into heat or electricity.
@@ -30,7 +29,7 @@ Maintenance costs
 Local electricity rates
 The calculators provide clear insights into cost-effectiveness and environmental benefits.
 
-III. How to Use This Repository
+**III. How to Use This Repository**
 1. Clone the Repository:
 git clone https://github.com/your-username/solar-energy-decision-tool.git
 cd solar-energy-decision-tool
@@ -44,14 +43,14 @@ The e-textbook is available in /RETScreen_eTextbook. Follow the examples and ins
 4. Use the Excel Calculators:
 Open the /calculators folder and use the provided Excel sheets to calculate potential savings and payback periods.
 
-IV. Recommended Tools
+**IV. Recommended Tools**
 Python (for advanced calculations and modeling)
 Excel (for simplified payback period estimation)
 RETScreen Software (for comprehensive project analysis)
 
-V. Contributions
+**V. Contributions**
 Contributions are welcome! If you would like to improve the theory, enhance the calculators, or provide additional resources, please open an issue or submit a pull request.
 
-VI. Contact
+**VI. Contact**
 For questions, suggestions, or collaboration opportunities, please reach out at awad.alquaity@kfupm.edu.sa.
 
