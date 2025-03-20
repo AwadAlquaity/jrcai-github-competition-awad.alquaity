@@ -1,6 +1,5 @@
-# jrcai-github-competition-awad.alquaity
-
 Solar Energy Analysis and Decision Tool
+# jrcai-github-competition-awad.alquaity
 
 I. Overview
 This repository is designed to help users evaluate the feasibility and benefits of installing a solar water heater or solar PV system. It combines theoretical foundations, practical tools, and resources to assist users in making informed decisions regarding solar energy systems.
